@@ -14,4 +14,4 @@ This project is designed to automate the manual and time-consuming process of as
 - **Backend:** PHP, MySQL
 - **Additional Tools:** Python
 
-Find implementation screenshots [here](https://github.com/mirzadobetter/project/tree/master/Implementation%20screenshots).
+Find implementation screenshots [here](https://github.com/mirzadobetter/examseater_project/tree/38cb94d5e07bdbf82335544955b8dc1fc9e17f39/Implementation%20screenshots).
